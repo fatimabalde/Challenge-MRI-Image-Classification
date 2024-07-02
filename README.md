@@ -1,4 +1,4 @@
-This is the repository of the course IMA 205  done in Telecom Paris.
+This is the repository of the challenge for IMA 205 Telecom Paris course.
 
 The goal of this challenge is to classify 3D MRI images of the heart among 5 classes.
 * Healthy controls
